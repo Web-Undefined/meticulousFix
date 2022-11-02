@@ -3947,6 +3947,18 @@ table.alt tbody tr td {
 
 /* Intro */
 
+#intro {
+    background-image: linear-gradient(
+            to top,
+            rgba(255, 255, 255, 1),
+            rgba(255, 255, 255, 0.8)
+        ),
+        url("../../images/whiteSiding.jpg");
+    background-position: center, center;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+
 #intro .image {
     -moz-transition: opacity 0.75s ease-in-out;
     -webkit-transition: opacity 0.75s ease-in-out;
