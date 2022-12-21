@@ -3298,7 +3298,7 @@ table.alt tbody tr td {
 }
 
 .wrapper.featured > .inner > .content h1 {
-    font-size: 3em;
+    font-size: 2.25em;
 }
 
 .wrapper.featured > .inner > .content h1:before {
@@ -3316,7 +3316,7 @@ table.alt tbody tr td {
     }
 
     .wrapper.featured > .inner > .content h1 {
-        font-size: 3.5em;
+        font-size: 2.25em;
     }
 
     .wrapper.featured > .inner > .content p {
@@ -3347,7 +3347,7 @@ table.alt tbody tr td {
     }
 
     .wrapper.featured > .inner > .content h1 {
-        font-size: 2.5em;
+        font-size: 2em;
     }
 
     .wrapper.featured > .inner > .content p {
@@ -4033,4 +4033,8 @@ body.is-preload #intro .content {
 
 html {
     scroll-behavior: smooth;
+}
+
+.less-margin {
+    margin-bottom: 0;
 }
