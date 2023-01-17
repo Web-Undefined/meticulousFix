@@ -4034,6 +4034,9 @@ body.is-preload #intro .content {
 html {
     scroll-behavior: smooth;
 }
+br {
+    display: block !important;
+}
 
 .less-margin {
     margin-bottom: 0;
